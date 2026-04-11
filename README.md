@@ -1,10 +1,10 @@
 <div align="center">
 
-# Привет, я Сергей 👋
+# Привет, я Алексей 👋
 
 ### Senior AQA · Python · Автоматизация тестирования
 
-*Продуктовая разработка · API & UI · микросервисы*
+*Не просто писать автотесты, а делать качество предсказуемым через стратегию тестирования*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
