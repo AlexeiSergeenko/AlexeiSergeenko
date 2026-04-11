@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytest,selenium,fastapi,docker,postgres,git,github,vscode,linux&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
+    <img src="https://skillicons.dev/icons?i=python,pytest,request,selenium,fastapi,docker,postgres,git,github,vscode,linux&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
   </a>
 </p>
 
@@ -87,11 +87,9 @@ allure serve allure-results
 
 ## Контакты
 
-Замени плейсхолдеры на свои ссылки:
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Alexius808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexeisergeenko/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spam.vending430@passinbox.com)
 
 <div align="center">
 
