@@ -1,109 +1,110 @@
 <div align="center">
 
-# UI-автотесты на Python
+# Привет, я Сергей 👋
 
-**Selenium · Pytest · Allure**
+### Senior AQA · Python · Автоматизация тестирования
+
+*Продуктовая разработка · API & UI · микросервисы*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Allure](https://img.shields.io/badge/Allure_Report-FF6C37?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Allure](https://img.shields.io/badge/Allure_Report-FF6C37?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure-report/)
 
-[![License](https://img.shields.io/badge/License-MIT-97ca00?style=flat-square)](LICENSE)
-[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </div>
 
 ---
 
-## О проекте
+## Обо мне
 
-Репозиторий с примерами **UI-автотестов**: сценарии на **Selenium WebDriver**, организация через **pytest**, отчёты и вложения при падениях — **Allure**.
+Инженер по автоматизации тестирования с упором на **Python** и **практику уровня Senior**: от стратегии качества и пирамиды тестов до интеграций в **CI/CD** и работы с распределёнными системами.
+
+Строю и развиваю автотесты там, где важны и **стабильность UI**, и **контракты API**, и понимание того, как сервисы ведут себя под нагрузкой и при сбоях зависимостей.
+
+---
+
+## Опыт и зона ответственности
+
+Работаю в **продуктовой компании** над платформой в модели **White Label**: партнёры продают решение своим клиентам под своим брендом.
+
+В зоне команды **Multichannels** (мультиканальные коммуникации) отвечаю за критичный контур взаимодействия **конечного пользователя и агента**:
+
+- голос, **SMS**, телефонные номера, соцсети и другие каналы;
+- баланс между **UI**- и **API**-автоматизацией: тяжёлую бизнес-логику по возможности опускаю ниже по пирамиде;
+- взаимодействие с **микросервисной архитектурой**, внутренними сервисами на **FastAPI**, понимание **async**, интеграций, идемпотентности, устойчивости к сбоям.
+
+В автоматизации опираюсь на **осмысленную стратегию тестирования** (риски, критичность для бизнеса), **контрактное** и **интеграционное** тестирование, осознанное использование **Page Object**, работу с **Docker** и при необходимости — с **БД** для проверки побочных эффектов.
+
+---
+
+## Стек и инструменты
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytest,selenium,git,github,vscode&perline=8" alt="Стек: Python, Pytest, Selenium, Git, GitHub, VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,pytest,selenium,fastapi,docker,postgres,git,github,vscode,linux&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
   </a>
 </p>
 
----
-
-## Возможности
-
-| | |
+| Направление | Примеры |
 | :--- | :--- |
-| **Фреймворк** | Pytest + фикстуры под браузеры |
-| **Отчётность** | Allure: скриншоты и HTML страницы при падении теста |
-| **Браузеры** | Примеры под Chrome / Firefox (см. тесты и фикстуры) |
+| **Язык и тесты** | Python, pytest, фикстуры, параметризация, async-тесты (`pytest-asyncio`, `httpx`) |
+| **UI** | Selenium WebDriver, Page Object, Allure (скриншоты и вложения при падениях) |
+| **API** | REST, контракты, интеграционные сценарии |
+| **Инфра и качество** | Git, CI/CD, Docker, логи и трассировки при разборе инцидентов |
 
 ---
 
-## Требования
+## Этот репозиторий
 
-- **Python** 3.10+ (рекомендуется 3.11)
-- Установленный **браузер** и совместимый **WebDriver** / **Selenium Manager** (в зависимости от версии Selenium)
+Здесь — **учебно-практический** материал: примеры **UI**-сценариев на **Selenium**, организация через **pytest**, отчёты **Allure**, вспомогательные задачи и `conftest` с вложениями при ошибках.
 
----
-
-## Быстрый старт
+<details>
+<summary><strong>Быстрый старт (локально)</strong></summary>
 
 ```bash
-# клонирование
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 
-# виртуальное окружение
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
-# зависимости (пример — подставьте свой requirements.txt или pyproject)
 pip install -U pip pytest selenium allure-pytest
 ```
 
-### Запуск тестов
-
 ```bash
-# все тесты
-pytest
-
-# конкретная папка
 pytest selenium_tests/ -v
-
-# с результатами для Allure
 pytest --alluredir=allure-results
-```
-
-### Отчёт Allure
-
-```bash
 allure serve allure-results
 ```
 
----
-
-## Структура (ориентир)
-
 ```
 ├── selenium_tests/     # UI-сценарии
-├── tasks/              # примеры, conftest с вложениями Allure
-├── allure-results/     # сырые результаты (генерируется)
+├── tasks/              # примеры, conftest с Allure
+├── allure-results/     # генерируется при прогоне
 └── README.md
 ```
 
----
-
-## Полезные ссылки
-
-[![Документация Selenium](https://img.shields.io/badge/docs-Selenium-43B02A?style=flat-square&logo=selenium)](https://www.selenium.dev/documentation/)
-[![Pytest](https://img.shields.io/badge/docs-Pytest-0A9EDC?style=flat-square&logo=pytest)](https://docs.pytest.org/)
-[![Allure](https://img.shields.io/badge/docs-Allure-FF6C37?style=flat-square)](https://docs.qameta.io/allure-report/)
+</details>
 
 ---
+
+## Контакты
+
+Замени плейсхолдеры на свои ссылки:
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <div align="center">
 
-**Сделано с** · **AQA · Python · Автотесты**
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=GitHub&style=social)](https://github.com/YOUR_USERNAME)
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+*Открыт к профессиональному общению и обмену опытом по AQA и Python*
 
 </div>
