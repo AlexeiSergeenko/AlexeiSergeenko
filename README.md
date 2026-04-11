@@ -93,7 +93,7 @@ allure serve allure-results
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=GitHub&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=GitHub&style=social)](https://github.com/AlexeiSergeenko)
 
 *Открыт к профессиональному общению и обмену опытом по AQA и Python*
 
