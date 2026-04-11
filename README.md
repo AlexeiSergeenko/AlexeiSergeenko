@@ -4,7 +4,7 @@
 
 ### Senior AQA · Python · Автоматизация тестирования
 
-*Не просто писать автотесты, а делать качество предсказуемым через стратегию тестирования*
+*Не просто писать автотесты, а делать качество предсказуемым через стратегию тестирования,   стратегию автоматизации и понятный релизный процесс.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
