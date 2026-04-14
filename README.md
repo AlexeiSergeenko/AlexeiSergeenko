@@ -5,13 +5,14 @@
 ### Senior AQA · Lead QA Engineer · 6+ лет в автоматизации тестирования
 
 *Делаю качество предсказуемым через стратегию тестирования, стратегию автоматизации и прозрачный релизный процесс.*
-
-[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![Pytest](https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC)](https://pytest.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A)](https://www.selenium.dev/)
-[![Appium](https://img.shields.io/badge/Appium-111827?style=for-the-badge&logo=appium&logoColor=5A4FCF)](https://appium.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
-[![Allure](https://img.shields.io/badge/Allure-111827?style=for-the-badge&logo=allure&logoColor=FF6C37)](https://docs.qameta.io/allure-report/)
+<p align="center">
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
+  <a href="https://pytest.org/" title="Pytest"><img src="https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Pytest" /></a>
+  <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" /></a>
+  <a href="https://appium.io/" title="Appium"><img src="https://img.shields.io/badge/Appium-111827?style=for-the-badge&logo=appium&logoColor=5A4FCF" alt="Appium" /></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /></a>
+  <a href="https://docs.qameta.io/allure-report/" title="Allure"><img src="https://img.shields.io/badge/Allure-111827?style=for-the-badge&logo=allure&logoColor=FF6C37" alt="Allure" /></a>
+</p>
 
 </div>
 
