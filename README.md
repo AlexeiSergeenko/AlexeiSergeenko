@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,appium,jenkins,androidstudio,fastapi,docker,postgres&perline=5" alt="Python, PyCharm, Pytest, Selenium, Appium, Jenkins, Android Studio, FastAPI, Docker, PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,selenium,jenkins,androidstudio,fastapi,docker,postgres&perline=4" alt="Python, PyCharm, Selenium, Jenkins, Android Studio, FastAPI, Docker, PostgreSQL" />
   </a>
 </p>
 <p align="center">
@@ -47,6 +47,8 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Appium-5A4FCF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
   <img src="https://img.shields.io/badge/Requests-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/Allure_TestOps-FF6C37?style=for-the-badge&logo=allure&logoColor=white" alt="Allure TestOps" />
   <img src="https://img.shields.io/badge/BrowserStack-FF6B00?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
