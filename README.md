@@ -6,12 +6,9 @@
 
 *Делаю качество предсказуемым через стратегию тестирования, стратегию автоматизации и прозрачный релизный процесс.*
 <p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
-  <a href="https://pytest.org/" title="Pytest"><img src="https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Pytest" /></a>
-  <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" /></a>
-  <a href="https://appium.io/" title="Appium"><img src="https://img.shields.io/badge/Appium-111827?style=for-the-badge&logo=appium&logoColor=5A4FCF" alt="Appium" /></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /></a>
-  <a href="https://docs.qameta.io/allure-report/" title="Allure"><img src="https://img.shields.io/badge/Allure-111827?style=for-the-badge&logo=allure&logoColor=FF6C37" alt="Allure" /></a>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,pycharm,selenium,fastapi,jenkins,postgres,docker,git,github,postman,androidstudio&perline=11" alt="Python, PyCharm, Pytest, Selenium, Appium, FastAPI, Jenkins, PostgreSQL, Docker, Git, GitHub, Postman, Android Studio" />
+  </a>
 </p>
 
 </div>
