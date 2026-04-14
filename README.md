@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,selenium,fastapi,docker,postgres,git,github,vscode,linux&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,requests,appium,jenkins,alluretestops,browserstack,androidstudio,fastapi,docker,postgres,git,github,postman,vscode,linux,jira,confluence&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
   </a>
 </p>
 
