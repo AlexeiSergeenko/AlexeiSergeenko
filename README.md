@@ -38,13 +38,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,requests,appium,jenkins,alluretestops,browserstack,androidstudio&perline=5" alt="Python, Pycharm, Pytest, Selenium, Requests, Appium, Jenkins, Allure TestOps, BrowserStack, Android Studio" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,appium,jenkins,androidstudio,fastapi,docker,postgres&perline=5" alt="Python, PyCharm, Pytest, Selenium, Appium, Jenkins, Android Studio, FastAPI, Docker, PostgreSQL" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,git,github,postman,vscode,linux,jira,confluence&perline=5" alt="FastAPI, Docker, PostgreSQL, Git, GitHub, Postman, VS Code, Linux, Jira, Confluence" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=5" alt="Git, GitHub, Postman, VS Code, Linux" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Requests-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/Allure_TestOps-FF6C37?style=for-the-badge&logo=allure&logoColor=white" alt="Allure TestOps" />
+  <img src="https://img.shields.io/badge/BrowserStack-FF6B00?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 </p>
 
 | Направление | Примеры |
