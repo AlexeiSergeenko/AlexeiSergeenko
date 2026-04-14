@@ -38,7 +38,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,requests,appium,jenkins,alluretestops,browserstack,androidstudio,fastapi,docker,postgres,git,github,postman,vscode,linux,jira,confluence&perline=10" alt="Python, Pytest, Selenium, FastAPI, Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,pytest,selenium,requests,appium,jenkins,alluretestops,browserstack,androidstudio&perline=5" alt="Python, Pycharm, Pytest, Selenium, Requests, Appium, Jenkins, Allure TestOps, BrowserStack, Android Studio" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,git,github,postman,vscode,linux,jira,confluence&perline=5" alt="FastAPI, Docker, PostgreSQL, Git, GitHub, Postman, VS Code, Linux, Jira, Confluence" />
   </a>
 </p>
 
